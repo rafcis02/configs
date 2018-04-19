@@ -1,0 +1,7 @@
+message: "World"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
